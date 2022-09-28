@@ -1,0 +1,50 @@
+body{
+    background-color: #9ed1e8;
+}
+.calculator{
+    border-radius: 15px;
+    margin-top: 100px;
+    width: 500px;
+    height: 500px;
+}
+.disp{
+    text-align: right;
+    border-top-right-radius:15px;
+    border-top-left-radius: 15px;
+    border-color: black;
+    width: 493px;
+    height: 100px;
+    color: white;
+    font-size: 50px;
+    background-color: black;
+}
+.buttons{
+    border-radius: 15px;
+    width: 500px;
+    height: 400px;
+}
+.btn{
+    margin: 0%;
+    background-color: white;
+    border-color: gainsboro;
+    font-size: 40px;
+    width: 125px;
+    height: 80px;
+    float: left;
+}
+.btndiv{
+    border-radius: 15px;
+    margin: 0%;
+    float: left;
+    width: 375px;
+    height: 240px;
+}
+.eqbtn{
+    border-color: gainsboro;
+    margin: 0%;
+    border-bottom-right-radius: 15px;
+    background-color: #fc8b49;
+    width: 125px;
+    height: 320px;
+    font-size: 40px;
+}
